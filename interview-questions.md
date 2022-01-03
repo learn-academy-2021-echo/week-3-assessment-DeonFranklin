@@ -9,60 +9,59 @@ Then, research the question to expand on your answer. Even if you feel you have 
 
 1. What is `this` in JavaScript?
 
-  Your answer: 'This' in JavaScript is a means of identifying and retaining a particular value. 
-  This can be associated to a state or a value.
+  Your answer:
 
-  Researched answer: In JavaScript, when calling a function 'this' is the way to set a value. 'This' shows the ownership of a value to its respective function.
+  Researched answer:
 
 
 
 2. What is React? Why would you use it?
 
-  Your answer: React is a Javascript library that improves workflow by importing various components to speed up the building process of coding. You woulds use React to build user interfaces.
+  Your answer:
 
-  Researched answer: React is a component-based JavaScript library that used to build interactive components on a user interface. React is specific is building single page applications. One  would use React to view the changes being made without the need to reload the page.
+  Researched answer:
 
 
 
 3. Which lifecycle method is required in a React class component?
 
-  Your answer: The lifecycle method that is required in a React class component is the render method. The other methods are mounts, unmounts and updates.
+  Your answer:
 
-  Researched answer: Render is required because it is the only way to refresh the changes made to the User Interface.
+  Researched answer:
 
 
 
 4. What is JSX? What is one notable difference between HTML and JSX?
 
-  Your answer: Jsx is a JavaScript XML and is a component that is used to write code using HTML in React.A notable difference is that JSX uses fragments in React and in HTML a script tag is required.
+  Your answer:
 
-  Researched answer: JSX is a component of JavaScript that is used with React to build
-  by enabling the integration of multiple languages respective to their tag.
+  Researched answer:
+
 
 
 5. What is yarn? What file(s) are modified in a React application when you run yarn?
 
-  Your answer: Yarn is a package created by Meta that is used with React to run and test code. When Yarn is ran, the necessary dependencies are checked, and if necessary updated.
+  Your answer:
 
-  Researched answer: Yet Another Resource Manager(Yarn) is an open-source project manager and package manager that was developed by Facebook. The yarnrc file gets modified and allows configurational changes and adjustments to the Yarn features.
+  Researched answer:
 
 
 
 6. STRETCH: What is an anonymous function in JavaScript?
 
-  Your answer: An anonymous function in JavaScript is a random function that acts as a placeholder for a value in an argument.
+  Your answer:
 
-  Researched answer: An anonymous function is a nameless function that can be used to invoke a function. Anonymous functions can be used as an argument in a different argument.
+  Researched answer:
 
 
 ## Looking Ahead: Terms for Next Week
 
-1. Conditional rendering: A way to render and encapsulate actions that are only executed when a particular conditon is met.
+1. Conditional rendering:
 
-2. Props: Props is short for properties and is the type of argument that is passed in React. Props is considered to be a functional component.
+2. Props:
 
-3. JavaScript Events: An event is an action coded in JavaScript to execute when a situation occurs in the HTML. An example would be an onClick which triggers an even listener.
+3. JavaScript Events:
 
-4. Object-oriented programming: A method of programming that revolves aroud objects and classes. Often times chunks of are reused to create other objects.
+4. Object-oriented programming:
 
-5. Ruby: An programming language similar to python that is open-source and used for development on the back end.
+5. Ruby:
