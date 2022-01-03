@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "jest": "^27.4.5"
+  },
+  "env": {
+    "jest": true
+  },
+  "devDependencies": {
+    "file-loader": "^6.2.0"
+  }
+}
